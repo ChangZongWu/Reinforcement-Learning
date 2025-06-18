@@ -1,4 +1,5 @@
-Learned the Reinforcement-Learning by myself by looking at these to github repo.
+Learned the Reinforcement-Learning by myself by looking at these to github repo, then experement with it
+to help me understand
 And the sely research from the book Sutton & Barto's book Reinforcement Learning: An Introduction (2nd Edition)
 MIT License
 
